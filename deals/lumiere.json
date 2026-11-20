@@ -1,0 +1,22 @@
+{
+  "name": "Lumière",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6830332402&code=ARTSVITBF20",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "audio-video",
+  "description": "Play and organize your media with a native video and music player.",
+  "discount": "About 20% off lifetime",
+  "code": "ARTSVITBF20",
+  "prices": [
+    {
+      "plan": "Single-user lifetime (U.S.)",
+      "before": 59.99,
+      "after": 47.99
+    }
+  ],
+  "terms": "Single-user lifetime. U.S. prices shown; local savings approx. 17.5–20%. 500 redemptions per app, where available, through Nov 30 Pacific time.",
+  "ends": "2026-11-30",
+  "maker": "Artem Svitelskyi",
+  "makerUrl": "https://artsvit.com/"
+}
